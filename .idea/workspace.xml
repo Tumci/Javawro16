@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de840a83-61fd-4923-9df1-f0b99815f92d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainBubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MainMyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,93 +29,96 @@
     <session id="1152665093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="794" />
+          <entry key="dummy" value="13" />
+          <entry key="java" value="3964" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="794" />
+          <entry key="JAVA" value="3964" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#305#323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.46818614">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MainMyList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="112">
+                  <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/Element.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                  <folding>
+                    <element signature="e#184#185#0" expanded="true" />
+                    <element signature="e#216#217#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="295">
+                  <caret line="57" selection-start-line="57" selection-end-line="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="45" column="28" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#1708#1709#0" expanded="true" />
+                    <element signature="e#1759#1760#0" expanded="true" />
+                    <element signature="e#1983#1984#0" expanded="true" />
+                    <element signature="e#2011#2012#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,6 +126,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scanner</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,13 +150,28 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/ZadanieSwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Liczba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainBubblesort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MainMyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="width" value="1611" />
-    <option name="height" value="852" />
+    <option name="x" value="-9" />
+    <option name="width" value="1505" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,15 +233,51 @@
               <item name="lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javawro16artifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javawro16" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javawro16artifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javawro16" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javawro16artifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javawro16" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549206106906" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550329311579" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.com.sda.rafal.zientara.apps.lesson1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -220,14 +291,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainLider">
-    <configuration name="MainLider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson1.search.MainLider" />
+  <component name="RunManager" selected="Application.MainMyList">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson2.search.Bubble" />
       <module name="Javawro16artifact" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson1.search.*" />
+          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson2.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,13 +306,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson1.search.MainSearch" />
+    <configuration name="MainMyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson2.structure.MainMyList" />
       <module name="Javawro16artifact" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson1.search.*" />
+          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson2.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,13 +320,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson1.MainSet" />
+    <configuration name="MainSearch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson2.search.MainSearch" />
       <module name="Javawro16artifact" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson1.*" />
+          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson2.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson2.sorting.MainSort" />
+      <module name="Javawro16artifact" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson2.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.sda.rafal.zientara.apps.lesson1.homework.Zad1" />
+      <module name="Javawro16artifact" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.sda.rafal.zientara.apps.lesson1.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,15 +383,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainSet" />
-      <item itemvalue="Application.MainSearch" />
-      <item itemvalue="Application.MainLider" />
+      <item itemvalue="Application.MainSearch (1)" />
+      <item itemvalue="Application.Zad1" />
+      <item itemvalue="Application.Bubble" />
+      <item itemvalue="Application.MainSort" />
+      <item itemvalue="Application.MainMyList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainLider" />
-        <item itemvalue="Application.MainSearch" />
-        <item itemvalue="Application.MainSet" />
+        <item itemvalue="Application.MainMyList" />
+        <item itemvalue="Application.MainSort" />
+        <item itemvalue="Application.Bubble" />
+        <item itemvalue="Application.Zad1" />
+        <item itemvalue="Application.MainSearch (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -310,111 +413,307 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21842355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.23623446" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23090586" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4979757" weight="0.18913044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4304348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5020243" side_tool="true" weight="0.13143872" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" weight="0.23260869" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24939272" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.23623446" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23090586" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21842355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4979757" visible="true" weight="0.18913044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4304348" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5020243" side_tool="true" weight="0.13143872" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" weight="0.23260869" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainSort.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>value % 2 == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentData == wantedNumber</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(leftIndex*2)/rightIndex</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Liczba.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/ZadanieSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainBubblesort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="133">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="167">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#187#204#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainLider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="442">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#305#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/search/MainSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="543" selection-start-line="543" selection-end-line="543" />
+          <folding>
+            <element signature="e#24380#24381#0" expanded="true" />
+            <element signature="e#24405#24406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/MainRecurrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="method#findTextFiles#0;class#MainRecurrance#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/MainSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson1/homework/Zad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/search/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/sorting/MainSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MainMyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/com/sda/rafal/zientara/apps/lesson2/structure/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#1759#1760#0" expanded="true" />
+            <element signature="e#1983#1984#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
           </folding>
         </state>
       </provider>

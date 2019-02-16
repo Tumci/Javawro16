@@ -20,7 +20,7 @@ public class MainPrime {
         }
         //todo co robiæ? D:
         //sprawdzamy podzielniki od 2 do p - 1
-        for (int i = 2; i < p / 2 + 1; i++) {
+        for (int i = 2; i < p ; i++) {
             if (p % i == 0) {
                 System.out.println("Liczba " + p + " jest podzielna przez " + i);
                 return false;
