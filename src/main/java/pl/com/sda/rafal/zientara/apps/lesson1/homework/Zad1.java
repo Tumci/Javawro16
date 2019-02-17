@@ -8,11 +8,22 @@ public class Zad1 {
         int[] input = new int[]{1, 2, 3, 5, 1, 6, 2};
         int sum = 0;
         for (int value : input) {
-            if(value % 2 == 0) {
+            if (value % 2 == 0) {
                 sum = sum + value;
             }
         }
         System.out.println("Wynik:");
         System.out.println(sum);
+    }
+
+    public static boolean isEven(int value) {
+        return value % 2 == 0;
+        /*
+        if (value % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+         */
     }
 }

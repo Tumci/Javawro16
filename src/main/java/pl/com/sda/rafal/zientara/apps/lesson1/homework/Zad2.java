@@ -10,7 +10,7 @@ public class Zad2 {
     }
 
     private static double getMedian(int[] values) {
-        if (values.length % 2 == 1) {//nieaprzysta liczba elementow
+        if (values.length % 2 == 1) {//nieparzysta liczba elementow
             return values[values.length / 2];
         } else {
             return getMedianForEvenElements(values);

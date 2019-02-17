@@ -1,12 +1,12 @@
 package pl.com.sda.rafal.zientara.apps.lesson2.structure;
 
-public class Element {
+public class Element<V> {
     Element prev;
     Element next;
 
-    public final Integer data;
+    public final V data;
 
-    public Element(Integer data) {
+    public Element(V data) {
         this.data = data;
     }
 }

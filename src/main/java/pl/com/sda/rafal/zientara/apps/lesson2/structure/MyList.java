@@ -1,12 +1,13 @@
 package pl.com.sda.rafal.zientara.apps.lesson2.structure;
 
-public class MyList {
+public class MyList<T extends Number> {
 
-    private Element head;
-    private Element tail;
+    private Element<T> head;
+    private Element<T> tail;
     private int count = 0;
 
-    public void add(Element element) {
+    public void add(T value) {
+        Element<T> element = new Element<T>(value);
         if (isEmpty()) {
             //dodajemy pierwszy element!
             head = element;
@@ -26,7 +27,7 @@ public class MyList {
         } else if (head == tail) { //1 element
             head = null;
             tail = null;
-            count--;
+            count = 0;
         } else {// wiecej niz 1 elementow
             tail = tail.prev;
             tail.next = null;
@@ -40,7 +41,7 @@ public class MyList {
         } else if (head == tail) { //1 element
             head = null;
             tail = null;
-            count--;
+            count = 0;
         } else {
             head = head.next;
             head.prev = null;
@@ -79,4 +80,5 @@ public class MyList {
     public int getCount() {
         return count;
     }
+
 }
