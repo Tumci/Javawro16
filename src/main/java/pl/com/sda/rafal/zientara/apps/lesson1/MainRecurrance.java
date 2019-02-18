@@ -8,14 +8,27 @@ import java.util.List;
 public class MainRecurrance {
 
     public static void main(String[] args) {
-        int wow = silnia(1);
+        int wow = silnia(3);
         System.out.println();
         System.out.println(wow);
 
-        try {
-            openFile("E:\\test.txt");
-        } catch (IOException e) {
-            e.printStackTrace();
+//        try {
+//            openFile("E:\\test.txt");
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+    }
+
+    public static int silnia(int value) {
+        if (value < 0) {
+            throw new IllegalArgumentException("Nie ma takiej silnii!");
+        }
+        if (value <= 1) {
+            System.out.print(value);
+            return 1;
+        } else {
+            System.out.print(value + " * ");
+            return value * silnia(value - 1);
         }
     }
 
@@ -39,19 +52,6 @@ public class MainRecurrance {
         file.createNewFile();
     }
 
-
-    public static int silnia(int value) {
-        if (value < 0) {
-            throw new IllegalArgumentException("Nie ma takiej silnii!");
-        }
-        if (value <= 1) {
-            System.out.print(value);
-            return 1;
-        } else {
-            System.out.print(value + " * ");
-            return value * silnia(value - 1);
-        }
-    }
 
     private static int power(int value, int pow) {
         int result = 1;

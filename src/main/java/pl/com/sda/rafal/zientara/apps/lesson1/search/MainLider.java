@@ -28,7 +28,10 @@ public class MainLider {
         int currentMax = -1;
         int currentMaxKey = -1;
         for(Map.Entry<Integer, Integer> entry : lidersMap.entrySet()) {
-
+            Integer value = entry.getValue();
+            if(value > currentMax) {
+                //znalazlem nowy max
+            }
         }
 
         //todo sprawdz czy max jest liderem (wystepuje ponad 1/2 razy)
